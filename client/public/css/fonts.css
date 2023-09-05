@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "AdobeCaslonW01";
+    src: url("//db.onlinewebfonts.com/t/66c3da1e6125b1365fa02afedc2b9d1c.eot");
+    src: url("//db.onlinewebfonts.com/t/66c3da1e6125b1365fa02afedc2b9d1c.eot?#iefix") format("embedded-opentype"),
+        url("//db.onlinewebfonts.com/t/66c3da1e6125b1365fa02afedc2b9d1c.woff2") format("woff2"),
+        url("//db.onlinewebfonts.com/t/66c3da1e6125b1365fa02afedc2b9d1c.woff") format("woff"),
+        url("//db.onlinewebfonts.com/t/66c3da1e6125b1365fa02afedc2b9d1c.ttf") format("truetype"),
+        url("//db.onlinewebfonts.com/t/66c3da1e6125b1365fa02afedc2b9d1c.svg#AdobeCaslonW01-SmBd") format("svg");
+}
